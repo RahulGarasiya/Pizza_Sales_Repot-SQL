@@ -1,5 +1,4 @@
 
-Here is a short README for your GitHub project on pizza sales analysis using SQL:
 
 Pizza Sales Report Using SQL
 Welcome to the Pizza Sales Report project repository! This project demonstrates a comprehensive analysis of pizza sales using SQL queries to identify key sales trends, customer insights, and revenue growth.
