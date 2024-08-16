@@ -1,6 +1,4 @@
 
-
-Pizza Sales Report Using SQL
 Welcome to the Pizza Sales Report project repository! This project demonstrates a comprehensive analysis of pizza sales using SQL queries to identify key sales trends, customer insights, and revenue growth.
 
 Project Overview
