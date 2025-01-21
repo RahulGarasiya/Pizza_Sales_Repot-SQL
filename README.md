@@ -17,4 +17,4 @@ Project Details
 For detailed analysis and SQL queries used in this project, please visit the project repository.
 
 About Me
-I am an aspiring Business Analyst with an MBA in Information Technology and a passion for data-driven insights. Proficient in SQL, Power BI, and Excel, I aim to drive data-driven decisions and enhance operational efficiency.
+I am an aspiring Data Analyst with an MBA in Information Technology and a passion for data-driven insights. Proficient in SQL, Power BI, and Excel, I aim to drive data-driven decisions and enhance operational efficiency.
